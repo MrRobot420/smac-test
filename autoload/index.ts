@@ -17,7 +17,7 @@ events.playerJoin(({ player }) => {
 		// Initial join is a bit chaotic
 		echo(
 			player,
-			`Hi ${player.name}. The mc-plugin-test plugin is loaded on this server`
+			`Hi ${player.name}. The best minecraft plugin ever is loaded on this server`
 		)
 	}, 1000)
 })
